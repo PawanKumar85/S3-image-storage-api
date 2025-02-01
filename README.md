@@ -25,8 +25,8 @@ This is an API built using **Node.js** and **Express** that allows users to uplo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aws-s3-image-upload.git
-cd aws-s3-image-upload
+git clone https://github.com/PawanKumar85/S3-image-storage-api.git
+cd S3-image-storage-api
 ```
 
 ### 2. Install Dependencies
